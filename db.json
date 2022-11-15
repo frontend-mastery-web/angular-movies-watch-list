@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers 4",
+      "image": "assets/avengers-4.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Avatar 2",
+      "image": "assets/avatar-2.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "Black widow",
+      "image": "assets/blackwidow.jpg",
+      "isWatched": true,
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Matrix",
+      "image": "assets/matrix.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 5,
+      "title": "Army of Thieves",
+      "image": "assets/army-of-thieves.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 6,
+      "title": "Finch",
+      "image": "assets/finch.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 7,
+      "title": "Light Years",
+      "image": "assets/light-years.jpg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 8,
+      "title": "No Time To Die",
+      "image": "assets/no-time-to-die.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "id": 9,
+      "title": "Super Mario",
+      "image": "assets/super-mario.jpeg",
+      "isWatched": false,
+      "isFav": false
+    },
+    {
+      "id": 10,
+      "title": "Venom",
+      "image": "assets/venom.jpg",
+      "isWatched": true,
+      "isFav": false
+    },
+    {
+      "isFav": true,
+      "isWatched": true,
+      "image": "https://flxt.tmsimg.com/assets/p10854590_p_v10_af.jpg",
+      "title": "Terminator 4",
+      "id": 35604
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://wsswired.com/wp-content/uploads/2020/11/The-Batman.jpeg",
+      "title": "The Batman",
+      "id": 94765
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_.jpg",
+      "title": "Mission: Impossible 7",
+      "id": 30104
+    },
+    {
+      "isFav": false,
+      "isWatched": false,
+      "image": "https://www.themoviedb.org/t/p/original/xTgnUrym4IkriXTesP8UvbbDBOz.jpg",
+      "title": "df",
+      "id": 87788
+    }
+  ],
+  "favourites": [],
+  "watched": []
+}

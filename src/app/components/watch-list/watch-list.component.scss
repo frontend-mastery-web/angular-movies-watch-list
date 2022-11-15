@@ -1,0 +1,21 @@
+.watch-list-wrapper {
+  margin-top: 65px; // css variable
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  // flex-wrap: wrap;
+  align-items: center;
+  // justify-content: space-around;
+  gap: 25px;
+
+  .to-watch {
+    display: flex;
+    // width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    // justify-content: space-around;
+    gap: 15px;
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Avengers 4",
+            "image": "avengers-4.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Avatar 2",
+            "image": "avatar-2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Black widow",
+            "image": "blackwidow.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Matrix",
+            "image": "matrix.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Army of Thieves",
+            "image": "army-of-thieves.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Finch",
+            "image": "finch.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Light Years",
+            "image": "light-years.jpg"
+        },
+        {
+            "id": 8,
+            "title": "No Time To Die",
+            "image": "no-time-to-die.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Super Mario",
+            "image": "super-mario.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Venom",
+            "image": "venom.jpg"
+        }
+    ],
+    "favourites": [],
+    "watched": []
+}
